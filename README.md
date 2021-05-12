@@ -1,2 +1,2 @@
 # trend
-48
+new
