@@ -1,3 +1,2 @@
 # trend
-new
-4
+ads
